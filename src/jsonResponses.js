@@ -1,5 +1,4 @@
 const users = {};
-const coffeeData = require('coffeeList');
 
 // respondJSON response
 const respondJSON = (request, response, status, object) => {
